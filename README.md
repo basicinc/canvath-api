@@ -29,8 +29,8 @@ JSON形式でレスポンスを返します。
 
 ```
 {
-"error": "not_login",
-"error_description": "ログインが完了していません"
+  "error": "not_login",
+  "error_description": "ログインが完了していません"
 }
 ```
 
