@@ -1,4 +1,4 @@
-# GET GET api/v1/order_histories
+# GET api/v1/order_histories
 
 発注履歴の一覧を取得
 
