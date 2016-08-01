@@ -12,7 +12,6 @@
 
 ```
 {
-{
     order_histories: [
         {
             order_id: "1",
