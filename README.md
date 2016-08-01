@@ -40,7 +40,7 @@ JSON形式でレスポンスを返します。
 
 * [GET api/v1/materials](canvath_api_v1_materials.md) - 商品情報の一覧を取得
 
-### canvath_api_v1_order_histories
+### order_histories
 
 * [GET /api/v1/canvath_api_v1_order_histories](canvath_api_v1_order_histories.md) - 発注履歴の一覧を取得
 
