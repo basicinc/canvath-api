@@ -42,11 +42,11 @@ JSON形式でレスポンスを返します。
 
 ### order_histories
 
-* [GET /api/v1/canvath_api_v1_order_histories](canvath_api_v1_order_histories.md) - 発注履歴の一覧を取得
+* [GET /api/v1/order_histories](canvath_api_v1_order_histories.md) - 発注履歴の一覧を取得
 
 ### order
 
-* [GET /1/item_categories/detail/:item_id](canvath_api_v1_order.md) - API経由で直接Cartに商品を入れる
+* [POST /order](canvath_api_v1_order.md) - API経由で直接Cartに商品を入れる
 
 ## 注意点
 
